@@ -1,5 +1,7 @@
 # Hey there 👋  
 
+# [![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ZlBJr4qXzO3R_L1q5vDbx02AruAVDMcb/view?usp=drive_link)
+
 ### I'm **Ashish** 
 
 I'm a 3rd-year **Computer Science and Engineering** student at **SRM Institute of Science and Technology**, with expertise in **Cloud Computing**, **AWS**, **DevOps**, **ServiceNow ITSM**, and **Data Analysis**. I have hands-on experience with:
@@ -63,7 +65,6 @@ I'm a 3rd-year **Computer Science and Engineering** student at **SRM Institute o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishk169/)  
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodumuruashish15012005@gmail.com)  
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/@ashish_kodumuru1)  
-[![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ZlBJr4qXzO3R_L1q5vDbx02AruAVDMcb/view?usp=drive_link)
 
 ---
 
