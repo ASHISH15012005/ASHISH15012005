@@ -1,21 +1,22 @@
 # Hey there 👋  
 
-### I'm **Ashish** 👨‍💻  
+### I'm **Ashish** 
 
-I'm a 3rd-year **Computer Science and Engineering** student at **[SRM Institute of Science and Technology](https://www.srmist.edu.in/)**, passionate about **Cloud Computing**, **AWS**, and **DevOps**. I have solid knowledge in various **AWS services**, including:
+I'm a 3rd-year **Computer Science and Engineering** student at **SRM Institute of Science and Technology**, with expertise in **Cloud Computing**, **AWS**, **DevOps**, **ServiceNow ITSM**, and **Data Analysis**. I have hands-on experience with:
 
-- **S3**, **EC2**, **CloudWatch**, **ELB**, **ASG**, **RDS**, **VPC**, and **Linux**
-
-I am also a **competitive programmer** in **Java** and have solved numerous problems related to **data structures and algorithms**.
+- Extensive knowledge of **AWS Services** such as **S3**, **EC2**, **CloudWatch**, **ELB**, **ASG**, **RDS**, **VPC**, and **Linux**.
+- Strong proficiency in **ServiceNow ITSM** for IT Service Management.
+- Expertise in **Competitive Programming** with a focus on **Data Structures** and **Algorithms**.
+- Practical experience in **Data Analysis**, with a solid understanding of analytics tools and platforms.
 
 ---
 
 ## 🚀 **Certifications**  
-- 🏆 **AWS Certified SysOps Administrator – Associate**  
+- 🏆 **CSA ServiceNow Certified** 
 - 🏆 **Salesforce AI Associate**  
-- 🏆 **CSA ServiceNow Certified**  
 - 🏆 **GitHub Foundations**  
 - 🏆 **NPTEL Java Certification**
+- 🏆 **NPTEL Machine Learning Certification**
 
 ---
 
@@ -49,30 +50,27 @@ I am also a **competitive programmer** in **Java** and have solved numerous prob
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHISH15012005&show_icons=true&theme=tokyonight)
 
 ---
+## ⏳ **This Week I Spent My Time On**
 
-## 📈 **Contribution Graph**  
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ASHISH15012005&theme=tokyo-night)
+🖥️ **AWS and Cloud**: 5 Hours 20 mins  
+💻 **Competitive Programming**: 2 Hours 40 mins  
+📚 **Learning Frontend Dev**: 3 Hours 10 mins  
 
 ---
 
-## ⏳ **This Week I Spent My Time On**  
-```text
-💻 AWS and Cloud: 5 Hours 20 mins  
-🚀 Competitive Programming: 2 Hours 40 mins  
-📖 Learning Frontend Dev: 3 Hours 10 mins  
- ---
-## 🤝 **Connect With Me**  
+## 🤝 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishk169/)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodumuruashish15012005@gmail.com)  
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/@ashish_kodumuru1)  
-[![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ZlBJr4qXzO3R_L1q5vDbx02AruAVDMcb/view?usp=sharing)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kodumuraashish15012005@gmail.com)  
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/)  
+[![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/)
+
 ---
-##✍️ **Random Dev Quote**
-"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+
+## ✍️ **Random Dev Quote**
+
+"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."  
 — Albert Schweitzer
-
 
 
 
