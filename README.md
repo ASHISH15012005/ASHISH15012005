@@ -19,15 +19,30 @@ I am also a **competitive programmer** in **Java** and have solved numerous prob
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🛠️ Tech Stack  
 
-| **Languages**      | **DevOps & Cloud**      | **Frontend**           |  
-|---------------------|-------------------------|------------------------|  
-| Java, Shell Script | AWS (EC2, S3, RDS)      | HTML, CSS, JavaScript  |  
-| Python             | Terraform               | React, Tailwind CSS    |  
-|                    | Git, GitHub Actions     |                        |  
+### Top Technologies  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-273347?style=flat&logo=servicenow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4479A1?style=flat&logo=databricks&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ---
+
+### Languages and Tools  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+
 
 ## 📊 **GitHub Stats**  
 
