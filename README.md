@@ -43,7 +43,7 @@ I am also a **competitive programmer** in **Java** and have solved numerous prob
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-
+---
 ## 📊 **GitHub Stats**  
 
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHISH15012005&show_icons=true&theme=tokyonight)
