@@ -1,6 +1,7 @@
 # Hey there 👋  
 
 # [![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ZlBJr4qXzO3R_L1q5vDbx02AruAVDMcb/view?usp=drive_link)
+![Profile Views](https://komarev.com/ghpvc/?username=ASHISH15012005&color=brightgreen)
 
 ### I'm **Ashish** 
 
