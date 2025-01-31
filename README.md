@@ -1,6 +1,6 @@
 # Hey there 👋  
 
-# [![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1ZlBJr4qXzO3R_L1q5vDbx02AruAVDMcb/view?usp=drive_link)
+# [![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1X73Z6kTld5SrUPchTjq3rv73gOwEqjgs/view?usp=drive_link)
 
 ### I'm **Ashish** 
 
