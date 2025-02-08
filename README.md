@@ -1,7 +1,5 @@
 # Hey there 👋  
 
-# [![Resume](https://img.shields.io/badge/Resume-282C34?style=flat&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1UY42hnbUWz9ylZA78R08kzB0GBgEd-mD/view?usp=drive_link)
-
 ### I'm **Ashish** 
 
 I'm a 3rd-year **Computer Science and Engineering** student at **SRM Institute of Science and Technology**, with expertise in **Cloud Computing**, **AWS**, **DevOps**, **ServiceNow ITSM**, and **Data Analysis**. I have hands-on experience with:
